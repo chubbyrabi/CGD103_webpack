@@ -1,1 +1,5 @@
-# CGD103_webpack_1125
+# doc
+
+1.  `npm install`
+2. 開發用
+3. 上線用
